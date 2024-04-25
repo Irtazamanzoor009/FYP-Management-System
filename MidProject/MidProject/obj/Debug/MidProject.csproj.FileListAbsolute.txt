@@ -1,0 +1,121 @@
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 4\DB Lab\Project\MidProject\MidProject\bin\Debug\MidProject.exe.config
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 4\DB Lab\Project\MidProject\MidProject\bin\Debug\MidProject.exe
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 4\DB Lab\Project\MidProject\MidProject\bin\Debug\MidProject.pdb
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 4\DB Lab\Project\MidProject\MidProject\obj\Debug\MidProject.csproj.AssemblyReference.cache
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 4\DB Lab\Project\MidProject\MidProject\obj\Debug\MidProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 4\DB Lab\Project\MidProject\MidProject\obj\Debug\MidProject.Form1.resources
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 4\DB Lab\Project\MidProject\MidProject\obj\Debug\MidProject.FYP_Project_Manager.resources
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 4\DB Lab\Project\MidProject\MidProject\obj\Debug\MidProject.Properties.Resources.resources
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 4\DB Lab\Project\MidProject\MidProject\obj\Debug\MidProject.csproj.GenerateResource.cache
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 4\DB Lab\Project\MidProject\MidProject\obj\Debug\MidProject.csproj.CoreCompileInputs.cache
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 4\DB Lab\Project\MidProject\MidProject\obj\Debug\MidProject.exe
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 4\DB Lab\Project\MidProject\MidProject\obj\Debug\MidProject.pdb
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 4\DB Lab\Project\MidProject\MidProject\obj\Debug\MidProject.Students.AddStudentForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 4\DB Lab\Project\MidProject\MidProject\obj\Debug\MidProject.Students.StudentMenuForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 4\DB Lab\Project\MidProject\MidProject\obj\Debug\MidProject.Students.ViewStudentForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 4\DB Lab\Project\MidProject\MidProject\obj\Debug\MidProject.Students.DeleteStudentForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 4\DB Lab\Project\MidProject\MidProject\obj\Debug\MidProject.Students.UpdateStudentForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 4\DB Lab\Project\MidProject\MidProject\obj\Debug\MidProject.Advisors.AdvisorMenu.resources
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 4\DB Lab\Project\MidProject\MidProject\obj\Debug\MidProject.Advisors.AddAdvisorsForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 4\DB Lab\Project\MidProject\MidProject\obj\Debug\MidProject.Advisors.UpdateAdvisorsForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 4\DB Lab\Project\MidProject\MidProject\obj\Debug\MidProject.Advisors.ViewAdvisorsForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 4\DB Lab\Project\MidProject\MidProject\obj\Debug\MidProject.Project.AddProjectForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 4\DB Lab\Project\MidProject\MidProject\obj\Debug\MidProject.Project.ProjectMenuForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 4\DB Lab\Project\MidProject\MidProject\obj\Debug\MidProject.Project.UpdateProjectForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 4\DB Lab\Project\MidProject\MidProject\obj\Debug\MidProject.Project.ViewProjectForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 4\DB Lab\Project\MidProject\MidProject\obj\Debug\MidProject.Reports.ReportMenuForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 4\DB Lab\Project\MidProject\MidProject\obj\Debug\MidProject.Advisors.DeleteAdvisorForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 4\DB Lab\Project\MidProject\MidProject\obj\Debug\MidProject.Groups.CreateGroupForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 4\DB Lab\Project\MidProject\MidProject\obj\Debug\MidProject.Groups.GroupMenu.resources
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\bin\Debug\MidProject.exe.config
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\bin\Debug\MidProject.exe
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\bin\Debug\MidProject.pdb
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.csproj.AssemblyReference.cache
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.Advisors.AddAdvisorsForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.Advisors.AdvisorMenu.resources
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.Advisors.DeleteAdvisorForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.Advisors.UpdateAdvisorsForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.Advisors.ViewAdvisorsForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.Form1.resources
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.FYP_Project_Manager.resources
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.Groups.CreateGroupForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.Groups.GroupMenu.resources
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.Project.AddProjectForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.Project.ProjectMenuForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.Project.UpdateProjectForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.Project.ViewProjectForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.Properties.Resources.resources
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.Reports.ReportMenuForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.Students.AddStudentForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.Students.DeleteStudentForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.Students.StudentMenuForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.Students.UpdateStudentForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.Students.ViewStudentForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.csproj.GenerateResource.cache
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.csproj.CoreCompileInputs.cache
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.exe
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.pdb
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.Groups.AssignProjects.resources
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.Groups.ViewGroups.resources
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.Groups.ViewAssignedProject.resources
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.Evaluations.CreateEvaluationForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.Evaluations.EvaluationMenu.resources
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.Evaluations.ManageEvaluationForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.GroupEvaluations.GroupEvaluationMenu.resources
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.GroupEvaluations.MarkEvaluations.resources
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\bin\Debug\itextsharp.dll
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\bin\Debug\itextsharp.xml
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.csproj.CopyComplete
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.Project.DeleteProjectForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.Evaluations.UpdateEvaluationForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.GroupEvaluations.ManageEvaluationForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.GroupEvaluations.UpdateEvaluationForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\MidProject\MidProject\obj\Debug\MidProject.GroupEvaluations.UpdateEvaluationForm1.resources
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\bin\Debug\MidProject.exe.config
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\bin\Debug\MidProject.exe
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\bin\Debug\MidProject.pdb
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\bin\Debug\itextsharp.dll
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\bin\Debug\itextsharp.xml
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.csproj.AssemblyReference.cache
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.Advisors.AddAdvisorsForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.Advisors.AdvisorMenu.resources
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.Advisors.DeleteAdvisorForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.Advisors.UpdateAdvisorsForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.Advisors.ViewAdvisorsForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.Evaluations.CreateEvaluationForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.Evaluations.EvaluationMenu.resources
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.Evaluations.ManageEvaluationForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.Evaluations.UpdateEvaluationForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.Form1.resources
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.FYP_Project_Manager.resources
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.GroupEvaluations.GroupEvaluationMenu.resources
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.GroupEvaluations.ManageEvaluationForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.GroupEvaluations.MarkEvaluations.resources
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.GroupEvaluations.UpdateEvaluationForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.GroupEvaluations.UpdateEvaluationForm1.resources
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.Groups.AssignProjects.resources
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.Groups.CreateGroupForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.Groups.GroupMenu.resources
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.Groups.ViewAssignedProject.resources
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.Groups.ViewGroups.resources
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.Project.AddProjectForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.Project.DeleteProjectForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.Project.ProjectMenuForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.Project.UpdateProjectForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.Project.ViewProjectForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.Properties.Resources.resources
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.Reports.ReportMenuForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.Students.AddStudentForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.Students.DeleteStudentForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.Students.StudentMenuForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.Students.UpdateStudentForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.Students.ViewStudentForm.resources
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.csproj.GenerateResource.cache
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.csproj.CoreCompileInputs.cache
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.csproj.CopyComplete
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.exe
+C:\Users\IRTAZA MANZOOR\Desktop\NewP\MidProject\MidProject\obj\Debug\MidProject.pdb

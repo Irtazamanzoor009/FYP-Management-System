@@ -1,0 +1,377 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4DAFE022-7B44-482C-BE63-D9EA41EB3213}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MidProject</RootNamespace>
+    <AssemblyName>MidProject</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.9.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.9\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.3, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.3\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Advisors\AdvisorsCRUD.cs" />
+    <Compile Include="Advisors\AddAdvisorsForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Advisors\AddAdvisorsForm.Designer.cs">
+      <DependentUpon>AddAdvisorsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Advisors\AdvisorMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Advisors\AdvisorMenu.Designer.cs">
+      <DependentUpon>AdvisorMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Advisors\DeleteAdvisorForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Advisors\DeleteAdvisorForm.Designer.cs">
+      <DependentUpon>DeleteAdvisorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Advisors\UpdateAdvisorsForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Advisors\UpdateAdvisorsForm.Designer.cs">
+      <DependentUpon>UpdateAdvisorsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Advisors\ViewAdvisorsForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Advisors\ViewAdvisorsForm.Designer.cs">
+      <DependentUpon>ViewAdvisorsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Configuration.cs" />
+    <Compile Include="Evaluations\CreateEvaluationForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Evaluations\CreateEvaluationForm.Designer.cs">
+      <DependentUpon>CreateEvaluationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Evaluations\EvaluationMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Evaluations\EvaluationMenu.Designer.cs">
+      <DependentUpon>EvaluationMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Evaluations\ManageEvaluationForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Evaluations\ManageEvaluationForm.Designer.cs">
+      <DependentUpon>ManageEvaluationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Evaluations\EvaluationCRUD.cs" />
+    <Compile Include="Evaluations\UpdateEvaluationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Evaluations\UpdateEvaluationForm.Designer.cs">
+      <DependentUpon>UpdateEvaluationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FYP Project Manager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FYP Project Manager.Designer.cs">
+      <DependentUpon>FYP Project Manager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GroupEvaluations\GroupEvaluationCRUD.cs" />
+    <Compile Include="Groups\GroupCRUD.cs" />
+    <Compile Include="GroupEvaluations\GroupEvaluationMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GroupEvaluations\GroupEvaluationMenu.Designer.cs">
+      <DependentUpon>GroupEvaluationMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GroupEvaluations\ManageEvaluationForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GroupEvaluations\ManageEvaluationForm.Designer.cs">
+      <DependentUpon>ManageEvaluationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GroupEvaluations\MarkEvaluations.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GroupEvaluations\MarkEvaluations.Designer.cs">
+      <DependentUpon>MarkEvaluations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GroupEvaluations\UpdateEvaluationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GroupEvaluations\UpdateEvaluationForm.Designer.cs">
+      <DependentUpon>UpdateEvaluationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GroupEvaluations\UpdateEvaluationForm1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GroupEvaluations\UpdateEvaluationForm1.Designer.cs">
+      <DependentUpon>UpdateEvaluationForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Groups\AssignProjects.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Groups\AssignProjects.Designer.cs">
+      <DependentUpon>AssignProjects.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Groups\CreateGroupForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Groups\CreateGroupForm.Designer.cs">
+      <DependentUpon>CreateGroupForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Groups\GroupMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Groups\GroupMenu.Designer.cs">
+      <DependentUpon>GroupMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Groups\ViewAssignedProject.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Groups\ViewAssignedProject.Designer.cs">
+      <DependentUpon>ViewAssignedProject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Groups\ViewGroups.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Groups\ViewGroups.Designer.cs">
+      <DependentUpon>ViewGroups.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessageBoxInfo.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Project\ProjectCRUD.cs" />
+    <Compile Include="Project\AddProjectForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Project\AddProjectForm.Designer.cs">
+      <DependentUpon>AddProjectForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Project\DeleteProjectForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Project\DeleteProjectForm.Designer.cs">
+      <DependentUpon>DeleteProjectForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Project\ProjectMenuForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Project\ProjectMenuForm.Designer.cs">
+      <DependentUpon>ProjectMenuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Project\UpdateProjectForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Project\UpdateProjectForm.Designer.cs">
+      <DependentUpon>UpdateProjectForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Project\ViewProjectForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Project\ViewProjectForm.Designer.cs">
+      <DependentUpon>ViewProjectForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reports\ReportMenuForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Reports\ReportMenuForm.Designer.cs">
+      <DependentUpon>ReportMenuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Students\StudentCRUD.cs" />
+    <Compile Include="Students\AddStudentForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Students\AddStudentForm.Designer.cs">
+      <DependentUpon>AddStudentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Students\DeleteStudentForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Students\DeleteStudentForm.Designer.cs">
+      <DependentUpon>DeleteStudentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Students\StudentMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Students\StudentMenu.Designer.cs">
+      <DependentUpon>StudentMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Students\UpdateStudentForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Students\UpdateStudentForm.Designer.cs">
+      <DependentUpon>UpdateStudentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Students\ViewStudentForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Students\ViewStudentForm.Designer.cs">
+      <DependentUpon>ViewStudentForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Advisors\AddAdvisorsForm.resx">
+      <DependentUpon>AddAdvisorsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Advisors\AdvisorMenu.resx">
+      <DependentUpon>AdvisorMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Advisors\DeleteAdvisorForm.resx">
+      <DependentUpon>DeleteAdvisorForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Advisors\UpdateAdvisorsForm.resx">
+      <DependentUpon>UpdateAdvisorsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Advisors\ViewAdvisorsForm.resx">
+      <DependentUpon>ViewAdvisorsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Evaluations\CreateEvaluationForm.resx">
+      <DependentUpon>CreateEvaluationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Evaluations\EvaluationMenu.resx">
+      <DependentUpon>EvaluationMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Evaluations\ManageEvaluationForm.resx">
+      <DependentUpon>ManageEvaluationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Evaluations\UpdateEvaluationForm.resx">
+      <DependentUpon>UpdateEvaluationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FYP Project Manager.resx">
+      <DependentUpon>FYP Project Manager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GroupEvaluations\GroupEvaluationMenu.resx">
+      <DependentUpon>GroupEvaluationMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GroupEvaluations\ManageEvaluationForm.resx">
+      <DependentUpon>ManageEvaluationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GroupEvaluations\MarkEvaluations.resx">
+      <DependentUpon>MarkEvaluations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GroupEvaluations\UpdateEvaluationForm.resx">
+      <DependentUpon>UpdateEvaluationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GroupEvaluations\UpdateEvaluationForm1.resx">
+      <DependentUpon>UpdateEvaluationForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Groups\AssignProjects.resx">
+      <DependentUpon>AssignProjects.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Groups\CreateGroupForm.resx">
+      <DependentUpon>CreateGroupForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Groups\GroupMenu.resx">
+      <DependentUpon>GroupMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Groups\ViewAssignedProject.resx">
+      <DependentUpon>ViewAssignedProject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Groups\ViewGroups.resx">
+      <DependentUpon>ViewGroups.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project\AddProjectForm.resx">
+      <DependentUpon>AddProjectForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project\DeleteProjectForm.resx">
+      <DependentUpon>DeleteProjectForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project\ProjectMenuForm.resx">
+      <DependentUpon>ProjectMenuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project\UpdateProjectForm.resx">
+      <DependentUpon>UpdateProjectForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project\ViewProjectForm.resx">
+      <DependentUpon>ViewProjectForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Reports\ReportMenuForm.resx">
+      <DependentUpon>ReportMenuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Students\AddStudentForm.resx">
+      <DependentUpon>AddStudentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Students\DeleteStudentForm.resx">
+      <DependentUpon>DeleteStudentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Students\StudentMenu.resx">
+      <DependentUpon>StudentMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Students\UpdateStudentForm.resx">
+      <DependentUpon>UpdateStudentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Students\ViewStudentForm.resx">
+      <DependentUpon>ViewStudentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
